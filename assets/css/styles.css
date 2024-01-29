@@ -1,10 +1,12 @@
+.header {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container {
-    margin: 10px;
-    padding: 3%;
+  padding: 3%;
 }
 
 .content-block {
-    float: left;
-    margin: 10px;
-    padding: 25px;
+  padding: 25px;
 }
